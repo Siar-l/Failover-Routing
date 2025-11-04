@@ -1,3 +1,4 @@
+
 import os 
 from networkx.algorithms.connectivity import edge_connectivity
 import networkx as nx
@@ -58,5 +59,4 @@ print("Edge connectivity:", nx.edge_connectivity(G))
 print("Node connectivity:", nx.node_connectivity(G))
 print("Anzahl der Komponenten:", nx.number_connected_components(G))
 
-# Zeigt alle Brücken im Graph:
-print("Brücken (kritische Kanten):", list(nx.bridges(G)))
+
