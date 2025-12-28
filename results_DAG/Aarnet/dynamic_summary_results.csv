@@ -1,3 +1,2 @@
 k_desired;k_effective;success_rate;avg_bounces;avg_failed;avg_hops
-1;1;0.7;0.3;1.7;6.0
-2;2;0.8;0.7;0.7;6.0
+1;1;0.52;0.48;3.18;7.0
